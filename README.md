@@ -1,8 +1,8 @@
-# 🇮🇩 LexRAG – Asisten Hukum UU ITE 2024
+# 🇮🇩 LexRecon – Asisten Hukum UU ITE 2024
 
-![LexRAG Logo](https://i.imgur.com/v7q5Nb8.png)
+![LexRecon Logo](https://i.imgur.com/v7q5Nb8.png)
 
-**LexRAG** (Legal Expert RAG) adalah sistem asisten hukum berbasis **FastAPI**, **LangChain**, dan **Gemini (Google Generative AI)** yang dirancang khusus untuk menjawab pertanyaan masyarakat mengenai **Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) 2024** secara **akurat, sopan, dan edukatif**.
+**LexRecon** (Legal Expert RAG) adalah sistem asisten hukum berbasis **FastAPI**, **LangChain**, dan **Gemini (Google Generative AI)** yang dirancang khusus untuk menjawab pertanyaan masyarakat mengenai **Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) 2024** secara **akurat, sopan, dan edukatif**.
 
 > 🚀 Ditenagai oleh teknologi Retrieval-Augmented Generation (RAG) dengan Google Gemini + CrossEncoder untuk kepercayaan jawaban yang tinggi.
 
@@ -33,8 +33,8 @@
 
 ```bash
 # Clone repositori
-git clone https://github.com/username/LexRAG.git
-cd LexRAG
+git clone https://github.com/username/LexRecon.git
+cd LexRecon
 
 # Buat virtual environment
 python -m venv venv
@@ -53,21 +53,21 @@ pip install -r requirements.txt
 - Machine Learning Engineer & Cloud Computing Engineer  
 - Fokus pada pengembangan sistem RAG, pemrosesan bahasa alami (NLP), serta integrasi Gemini AI di Google Cloud Platform (GCP).
 - 📍 Jakarta, Indonesia.
-- 🧑‍🎓 Mahasiswa Teknik Informatika, Universitas Pamulang.
-- 💡 Penggagas utama LexRAG sebagai proyek tugas dan kontribusi sosial berbasis AI dalam bidang hukum.
+- 🧑‍🎓 Mahasiswa Teknik Informatika, ID.
+- 💡 Penggagas utama LexRecon sebagai proyek tugas dan kontribusi sosial berbasis AI dalam bidang hukum.
 
 ### 🔹 Akbar Fauzan Warahidayat  
 - Fullstack JavaScript Developer  
 - Fokus pada pengembangan backend FastAPI, pengelolaan API, serta strukturisasi data hukum.
 - 📍 Banten, Indonesia.
-- 🧑‍🎓 Mahasiswa Teknik Informatika, Universitas Pamulang.
+- 🧑‍🎓 Mahasiswa Teknik Informatika, ID.
 - 💡 Berkontribusi dalam menangani arsitektur sistem dan integrasi teknologi pendukung.
 
 ---
 ## 💡Catatan Tambahan
 - Model ini tidak menggantikan nasihat hukum profesional.
 - Proyek ini bertujuan edukasi dan pemberdayaan hukum digital.
-- Jika kamu tertarik mengembangkan LexRAG untuk bidang hukum lain (misal KUHP, UU Perlindungan Anak), silakan hubungi pengembang.
+- Jika kamu tertarik mengembangkan LexRecon untuk bidang hukum lain (misal KUHP, UU Perlindungan Anak), silakan hubungi pengembang.
 
 ---
 
