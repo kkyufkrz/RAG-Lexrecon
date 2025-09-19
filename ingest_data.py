@@ -1,7 +1,7 @@
 import logging
 from langchain_community.vectorstores import Qdrant
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
-from langchain.schema import Document  # <-- Tambahkan import ini
+from langchain.schema import Document
 from config import Config
 from src.utils import split_to_chunks, load_uu_file
 
